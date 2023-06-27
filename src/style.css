@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: row;
+    background-color: rgb(78, 123, 163);
+}
+
+#miniCard{
+    position:relative;
+    border: 3px solid rgba(39, 36, 135, 0.441);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 11px 4px rgba(0,0,0,0.86);
+    background-color: rgb(202, 161, 107);
+
+
+}
+
+img{
+    border-radius: 100%;
+    border: 2px solid black;
+}
